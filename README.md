@@ -2,6 +2,10 @@
 
 Download and load custom fonts from URLs or local storage. It simplifies the process of adding custom fonts to your Flutter app.
 
+## Platforms
+
+Web platform not supported yet. support later.
+
 ## Contents
 - [Usage](#usage)
 - [Installation](#installation)

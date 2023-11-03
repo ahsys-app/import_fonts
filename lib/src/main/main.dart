@@ -3,8 +3,8 @@ import 'dart:io';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
-import 'package:import_fonts/src/main/native.dart';
 import 'package:import_fonts/src/model/font_model.dart';
+import 'package:import_fonts/src/main/support.dart';
 
 class ImportFont {
   /// Downloads a font file from a specified URL and saves it with the given filename.
